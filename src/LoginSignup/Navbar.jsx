@@ -6,8 +6,8 @@ const Navbar = () => {
         <nav>
             <ul>
                 <li>
-                    <a className='head' href='/home'>Explore!</a>
-                    <a href='/signup'>Signup</a>
+                    <a className='head' >Explore!</a>
+                    <a href='/'>Signup</a>
                     <a href='/login'>Login</a>
 
                 </li>
