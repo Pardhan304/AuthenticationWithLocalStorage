@@ -52,7 +52,7 @@ const Singnup = () => {
                  <input type='text' name='name' placeholder='Enter your Name' onChange={handleInput}/>
                  <input type='email' name='email' placeholder='Enter your Email' onChange={handleInput}/>
                  <input type='password' name='password' placeholder='Enter your Password' onChange={handleInput}/>
-                 <p>Already have an account ? <a href='/login'>Login</a></p>
+                 <p>Already have an account ? <a href="/login">Login</a></p>
                 </div>
                 <button>SignUp</button>
             </form>

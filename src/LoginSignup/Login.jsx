@@ -58,7 +58,7 @@ const Login = () => {
                 <div className='account'>
                  <input type='text' name='email' placeholder='Enter your Email' onChange={handleInput}/>
                  <input type='password' name='password' placeholder='Enter your Password' onChange={handleInput}/>
-                 <p>If you have to create account ? <a href=''>Signup</a></p>
+                 <p>If you have to create account ? <a href='/signup'>Signup</a></p>
                 </div>
                 <button>Log In</button>
             </form>
